@@ -37,7 +37,7 @@
 }
 
 #titleBanner h3 {
-  font-family: 'Pacifico', cursive;
+font-family: 'Oswald', sans-serif;
   text-align: center;
   font-size: 20px;
   color: white;
@@ -45,9 +45,20 @@
   text-shadow: 3px 7px 7px #000000;
 }
   
+#copyright  {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  padding: 36px;
+  text-shadow: 3px 3px 3px #000000;
+}
+  
+
+
 
  #subheading {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
   font-size: 25px;
   padding: 36px;
